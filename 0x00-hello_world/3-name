@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $CFILE -o cisgood
+gcc $CFILE -o cisfun
